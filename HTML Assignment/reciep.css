@@ -1,0 +1,46 @@
+body{
+    color: #404040;
+    font-size: 11pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url( "silverware.jpg");
+
+}
+#one{   
+    text-align: center;
+    color:  #A4A400;
+    background-color: #F0F0F0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 22pt;
+    text-decoration: underline;
+    letter-spacing: 0.25em;
+}
+
+
+.style{
+    color:  #A4A400;
+    background-color: #F0F0F0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18pt;
+    text-decoration: underline;
+}
+a{
+    color: #A4A400;
+}
+.tsp{
+    text-decoration: underline;
+}
+pre{
+    font-family: monospace;
+}
+.que
+{
+   background-color: #FFFFA8; 
+}
+ul{
+    list-style-image: url('pie_bullet.png');
+}
+.lists{
+    background-color: #ffffa8;
+  font-style: italic;
+  margin: 20px;
+}
