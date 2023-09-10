@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(237, 46, 59);
+}
+.text{
+    border: none;
+    border-bottom: 1px solid gray;
+    background-color: azure;
+}
+a{
+    text-decoration: none;
+    color: darkgray;
+    margin-left: 80px;
+
+}
+.container{
+    
+    background-color: azure;
+    width: 30%;
+    margin-top: 15%;
+    margin-left: 35%;
+    border-radius: 5px;
+}
+.container_2{
+     padding: 30px;
+}
+
+#btn_1{
+    background-color: darkgrey;
+    width: 50%;
+    padding: 12px;
+    border: none;
+}
+#btn_2{
+    background-color: darkslategrey;
+    color: white;
+    width: 50%;
+    padding: 12px;
+    border: none;
+}
+h1{
+    margin-bottom: 45px;
+}
+a:hover{
+    color: rgb(249, 19, 53);
+}
+input{
+    width: 100%;
+}
+.bt
+{
+    display: flex;
+}
