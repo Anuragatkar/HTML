@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CSS Combinator</title>
+    </head>
+    <style>
+        div ~ p
+        {
+            background-color: orangered;
+            color: white;
+            font-size: 30px;
+            height: 30px;
+        }
+    </style>
+    <body>
+        <p>A</p>
+        <div>
+            <p>B</p>
+        </div>
+        <p>C</p>
+        <p>D</p>
+    </body>
+</html>
