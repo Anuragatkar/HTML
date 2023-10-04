@@ -12,15 +12,18 @@
 }
 a{
     text-decoration: none;
+
 }
 nav a{
     font-size: 20px;
     text-transform: uppercase;
     margin: 15px;
+    color: #2d2640;
 }
 .brand-name{
     font-size: 40px;
     margin-left: 50px;
+    color: #2d2640;
 }
 .btn{
     display: inline-block;
